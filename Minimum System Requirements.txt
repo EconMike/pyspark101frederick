@@ -1,0 +1,16 @@
+Minimum System Requirements:
+CPU: 64-bit x86-64 processor (Intel or AMD)
+Cores: 2 cores minimum (quad-core recommended)
+Memory (RAM): 4 GB minimum (8 GB recommended)
+Storage: 10 GB of free disk space (SSD preferred)
+Operating System:
+Windows: Windows 10/11 or Windows Server
+Linux: Any modern distribution (e.g., Ubuntu, CentOS, Debian)
+macOS: macOS Big Sur or later
+Java: Java Development Kit (JDK) 8, 11, or 17 (required for Spark)
+Python: Python 3.7 or later (Anaconda distribution recommended for easy package management)
+Recommended System Requirements (for Development and Medium Workloads):
+CPU: Quad-core or higher (multi-threading is beneficial)
+Cores: 4+ cores (more for handling large datasets)
+Memory (RAM): 16 GB or more
+Storage: 100 GB+ free disk space (SSD highly recommended)
